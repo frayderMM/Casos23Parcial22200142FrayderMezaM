@@ -1,0 +1,6 @@
+@Casos23Parcial22200142FrayderMeza_HostAddress = http://localhost:5276
+
+GET {{Casos23Parcial22200142FrayderMeza_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
